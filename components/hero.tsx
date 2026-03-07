@@ -29,9 +29,9 @@ export function Hero() {
         </div>
         
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-[1.1] tracking-tight">
-          Building the Future of{" "}
+          Software Engineer building Data-driven Applications and{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-primary/60">
-            Physical AI
+            AI-Powered Systems
           </span>
         </h1>
         
@@ -40,7 +40,7 @@ export function Hero() {
         </h2>
         
         <p className="text-muted-foreground text-lg md:text-xl max-w-2xl leading-relaxed mb-10">
-          Specializing in Computer Vision, Robotics Data Systems, and Machine Learning. 
+          Specializing in Software Engineering, Scalable Data Systems, and Machine Learning. 
           Creating intelligent systems that bridge the gap between digital intelligence 
           and physical world applications.
         </p>
@@ -62,7 +62,7 @@ export function Hero() {
         
         <div className="flex items-center gap-6">
           <a 
-            href="https://github.com" 
+            href="https://github.com/savish26" 
             target="_blank" 
             rel="noopener noreferrer"
             className="p-3 rounded-lg bg-secondary/50 border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all duration-300 backdrop-blur-sm"
@@ -71,7 +71,7 @@ export function Hero() {
             <Github className="w-5 h-5" />
           </a>
           <a 
-            href="https://linkedin.com" 
+            href="https://linkedin.com/in/savish-kumar-kandregula-ba8899252/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="p-3 rounded-lg bg-secondary/50 border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all duration-300 backdrop-blur-sm"
@@ -80,7 +80,7 @@ export function Hero() {
             <Linkedin className="w-5 h-5" />
           </a>
           <a 
-            href="mailto:savish@example.com"
+            href="mailto:savishkumarkandregula@gmail.com"
             className="p-3 rounded-lg bg-secondary/50 border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all duration-300 backdrop-blur-sm"
             aria-label="Email"
           >
