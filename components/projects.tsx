@@ -10,8 +10,8 @@ const projects = [
     tags: ["Computer Vision", "Robotics", "Multi-Modal AI", "Data Engineering"],
     icon: Bot,
     featured: true,
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/savish26",
+    demo: "https://axiom.corizo.site",
   },
   {
     title: "Non-Invasive Heart Rate Tracking",
@@ -20,7 +20,7 @@ const projects = [
     tags: ["OpenCV", "Deep Learning", "Signal Processing", "Python"],
     icon: Heart,
     featured: false,
-    github: "https://github.com",
+    github: "https://github.com/savish26",
   },
   {
     title: "Quantitative Crypto Analysis",
@@ -29,7 +29,7 @@ const projects = [
     tags: ["Time Series", "PyTorch", "Quantitative Finance", "Trading"],
     icon: TrendingUp,
     featured: false,
-    github: "https://github.com",
+    github: "https://github.com/savish26",
     demo: "https://demo.com",
   },
   {
@@ -39,7 +39,7 @@ const projects = [
     tags: ["MLOps", "Testing", "Python", "Automation"],
     icon: Bug,
     featured: false,
-    github: "https://github.com",
+    github: "https://github.com/savish26",
   },
 ]
 
