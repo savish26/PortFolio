@@ -72,7 +72,7 @@ export function Research() {
                 </div>
                 
                 <a 
-                  href="#"
+                  href="https://drive.google.com/file/d/1MolYXD2VPzhlvltUy-hgQU6uFJrUiBPI/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 bg-primary/10 text-primary font-medium rounded-lg border border-primary/20 hover:bg-primary hover:text-primary-foreground transition-all duration-300"
